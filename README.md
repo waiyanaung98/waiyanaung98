@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 Contact me on Email: **waiyanlarge@gmail.com**
+- 📫 Contact me on Email: **contact@waiyanaung.info**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

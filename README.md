@@ -107,10 +107,6 @@ I'm a Digital Marketing Executive based in Thailand specializing in SEO, modern 
 <img src="https://github-profile-trophy.vercel.app/?username=waiyanaung98&theme=tokyonight&column=4&margin-w=15"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waiyanaung98&theme=tokyo-night"/>
-</p>
-
 > 🐍 Snake contribution animation can be enabled later using GitHub Actions.
 
 ---

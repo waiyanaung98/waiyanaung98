@@ -36,7 +36,7 @@ I'm a Digital Marketing Executive based in Thailand specializing in SEO, modern 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap)
 
 ### Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+![My Skills](https://skillicons.dev/icons?i=nodejs)
 
 ### Database
 ![My Skills](https://skillicons.dev/icons?i=supabase,mysql,firebase)

@@ -111,7 +111,6 @@ I'm a Digital Marketing Executive based in Thailand specializing in SEO, modern 
 - Contribute more to Open Source
 - Master AI Agents
 - Become an Advanced Technical SEO Consultant
-
 ---
 
 ## 🌍 Languages

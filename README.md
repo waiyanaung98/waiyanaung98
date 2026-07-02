@@ -102,13 +102,6 @@ I'm a Digital Marketing Executive based in Thailand specializing in SEO, modern 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=waiyanaung98&theme=tokyonight"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=waiyanaung98&theme=tokyonight&column=4&margin-w=15"/>
-</p>
-
-> 🐍 Snake contribution animation can be enabled later using GitHub Actions.
-
 ---
 
 ## 📚 2026 Goals

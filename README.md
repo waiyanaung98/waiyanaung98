@@ -102,7 +102,6 @@ I'm a Digital Marketing Executive based in Thailand specializing in SEO, modern 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=waiyanaung98&theme=tokyonight"/>
 </p>
----
 
 ## 📚 2026 Goals
 

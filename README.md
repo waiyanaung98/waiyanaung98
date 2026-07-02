@@ -1,22 +1,156 @@
 ![Web Programmer](https://github.com/waiyanaung98/waiyanaung98/blob/main/RMM-Web-Development.jpg)
 
-<h1 align="center">Hi 👋, I'm a professional digital marketer</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+# Hi 👋 I'm Wai Yan Aung
 
-- 🌱 I’m currently learning **Frontend Development Course**
-
-- 👨‍💻 All of my projects are available at [https://github.com/waiyanaung98](https://github.com/waiyanaung98)
-
-- 💬 Ask me about **react**
-
-- 📫 Contact me on Email: **contact@waiyanaung.info**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/waiyanaung.wy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waiyanaung.wy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Digital+Marketing+Executive;SEO+Specialist;Next.js+Developer;AI+Automation+Enthusiast;Founder+of+PrimeNova+Digital+Agency" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waiyanaung98&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=waiyanaung98"><img src="https://komarev.com/ghpvc/?username=waiyanaung98&label=Profile%20Views&color=0e75b6&style=flat"/></a>
+  <img src="https://img.shields.io/github/followers/waiyanaung98?style=social"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+I'm a Digital Marketing Executive based in Thailand specializing in SEO, modern web development and AI automation.
+
+- 🔭 Founder of **PrimeNova Digital Agency**
+- 🌱 Learning **Advanced Technical SEO, AI Agents & Cloud**
+- 💼 Building high-performance websites with **Next.js & WordPress**
+- ⚡ Passionate about automation using **n8n, APIs and Supabase**
+- 🤝 Open to freelance, remote and collaboration opportunities
+
+## 🌐 Websites
+
+- 🌍 Personal: https://www.waiyanaung.info
+- 🏢 Agency: https://www.primenova.asia
+- 💻 GitHub: https://github.com/waiyanaung98
+- 📧 Email: contact@waiyanaung.info
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap)
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=supabase,mysql,firebase)
+
+### DevOps & Cloud
+![My Skills](https://skillicons.dev/icons?i=git,github,vercel,cloudflare,linux)
+
+### CMS
+- WordPress
+- Divi
+- Elementor
+
+### Marketing
+- Google Analytics 4
+- Google Tag Manager
+- Google Search Console
+- Google Ads
+- Meta Ads
+- Technical SEO
+- Local SEO
+- Schema Markup
+- Core Web Vitals
+- Yoast SEO
+
+### Automation
+- n8n
+- REST API
+- Webhooks
+- OpenAI API
+- Supabase
+
+---
+
+## 🎯 Services
+
+- SEO Optimization
+- Technical SEO
+- Website Development
+- Next.js Development
+- WordPress Development
+- Landing Page Design
+- Google Ads
+- Meta Ads
+- Website Speed Optimization
+- AI Automation
+- API Integration
+
+---
+
+## 🚀 Current Focus
+
+- AI Marketing
+- AI Automation
+- Next.js
+- Technical SEO
+- Digital Strategy
+- Performance Optimization
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=waiyanaung98&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiyanaung98&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=waiyanaung98&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=waiyanaung98&theme=tokyonight&column=4&margin-w=15"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waiyanaung98&theme=tokyo-night"/>
+</p>
+
+> 🐍 Snake contribution animation can be enabled later using GitHub Actions.
+
+---
+
+## 📚 2026 Goals
+
+- Launch AI-powered SaaS products
+- Grow PrimeNova Digital Agency
+- Contribute more to Open Source
+- Master AI Agents
+- Become an Advanced Technical SEO Consultant
+
+---
+
+## 🌍 Languages
+
+- 🇲🇲 Burmese (Native)
+- 🇬🇧 English
+
+---
+
+## 🤝 Connect With Me
+
+- 🌐 https://www.waiyanaung.info
+- 🏢 https://www.primenova.asia
+- 💻 https://github.com/waiyanaung98
+- 📧 contact@waiyanaung.info
+
+---
+
+## 💡 Quote
+
+> "Building meaningful digital experiences through technology, creativity, SEO, and AI."
+
+---
+
+⭐ If you like my projects, consider giving them a star!
+
